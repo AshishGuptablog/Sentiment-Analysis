@@ -1,2 +1,2 @@
-(./Img/Innoplexus Online Hackathon.PNG)
-(./Img/Participants.PNG)
+(./Img/Innoplexus Online Hackathon.PNG).
+(./Img/Participants.PNG).
