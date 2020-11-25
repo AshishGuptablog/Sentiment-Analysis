@@ -35,4 +35,4 @@ Sentiment           | (target) measured in 0,1 or 2
 
 # Leadership Board
 
-Within 15% of the total participants
+Within top 15% of the total participants
